@@ -45,5 +45,8 @@ vi /etc/passwd
 change shell from /bin/false to /bin/bash
 ```
 
-   vi /etc/sudoers
-   jenkins ALL=(ALL) NOPASSWD: ALL
+vi /etc/sudoers
+jenkins ALL=(ALL) NOPASSWD: ALL
+
+Aut Az cli:- 
+az login
